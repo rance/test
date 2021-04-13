@@ -1,0 +1,12 @@
+.MenuItemHorizontal {
+  display: inline-block;
+  background-color: aquamarine;
+  padding: 5px;
+  border: solid 1px;
+}
+
+.MenuItemVertical {
+  background-color: aquamarine;
+  padding: 5px;
+  border: solid 1px;
+}
